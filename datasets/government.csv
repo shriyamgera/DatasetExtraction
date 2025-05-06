@@ -1,0 +1,21 @@
+Location,Pollutant,Safe Limit,Unit,Value,Year,input_reference
+Delhi,PM2.5,40.0,µg/m³,126,2025.0,"Delhi recorded an average PM2.5 level of 126 µg/m³ in April 2025, over 3 times the safe limit."
+Lucknow,PM2.5,40.0,µg/m³,98,2025.0,"Lucknow, Patna, and Kanpur followed closely with levels at 98, 91, and 87 µg/m³, respectively."
+Patna,PM2.5,40.0,µg/m³,91,2025.0,"Lucknow, Patna, and Kanpur followed closely with levels at 98, 91, and 87 µg/m³, respectively."
+Kanpur,PM2.5,40.0,µg/m³,87,2025.0,"Lucknow, Patna, and Kanpur followed closely with levels at 98, 91, and 87 µg/m³, respectively."
+Yamuna River in Delhi,BOD,5.0,mg/L,65,,"The Yamuna River in Delhi showed a BOD level of 65 mg/L, nearly 13 times higher than the acceptable limit of 5 mg/L."
+Groundwater in Uttar Pradesh,Nitrate,45.0,mg/L,Above 45,,"65% of rural households in Uttar Pradesh rely on groundwater sources that show nitrate concentrations above the permissible limit of 45 mg/L, indicating contamination from fertilizers and sewage."
+India,,,%,70,,"According to the report, over 244 of India’s 350 monitored cities recorded PM2.5 levels exceeding the safe limit of 40 µg/m³ set by the National Ambient Air Quality Standards (NAAQS)."
+Rivers,,,%,46,,"Of the 311 monitored river stretches, 143 (46%) were found unfit for bathing or agricultural use due to high levels of Biochemical Oxygen Demand (BOD) and Fecal Coliform bacteria."
+Delhi,PM2.5,40.0,µg/m³,126,2025.0,"Delhi recorded an average PM2.5 level of 126 µg/m³ in April 2025, over 3 times the safe limit."
+Lucknow,PM2.5,40.0,µg/m³,98,2025.0,"Lucknow, Patna, and Kanpur followed closely with levels at 98, 91, and 87 µg/m³, respectively."
+Patna,PM2.5,40.0,µg/m³,91,2025.0,"Lucknow, Patna, and Kanpur followed closely with levels at 98, 91, and 87 µg/m³, respectively."
+Kanpur,PM2.5,40.0,µg/m³,87,2025.0,"Lucknow, Patna, and Kanpur followed closely with levels at 98, 91, and 87 µg/m³, respectively."
+Yamuna River in Delhi,BOD,5.0,mg/L,65,,"The Yamuna River in Delhi showed a BOD level of 65 mg/L, nearly 13 times higher than the acceptable limit of 5 mg/L."
+Uttar Pradesh,Nitrate,,mg/L,45,,"65% of rural households in Uttar Pradesh rely on groundwater sources that show nitrate concentrations above the permissible limit of 45 mg/L, indicating contamination from fertilizers and sewage."
+Delhi,PM2.5,40.0,µg/m³,126.0,2025,Delhi recorded an average PM2.5 level of 126 µg/m³ in April 2025; over 3 times the safe limit
+Lucknow,PM2.5,40.0,µg/m³,98.0,2025,Lucknow; Patna; and Kanpur followed closely with levels at 98; 91; and 87 µg/m³ respectively
+Patna,PM2.5,40.0,µg/m³,91.0,2025,Lucknow; Patna; and Kanpur followed closely with levels at 98; 91; and 87 µg/m³ respectively
+Kanpur,PM2.5,40.0,µg/m³,87.0,2025,Lucknow; Patna; and Kanpur followed closely with levels at 98; 91; and 87 µg/m³ respectively
+Delhi,BOD,5.0,mg/L,65.0,2025,The Yamuna River in Delhi showed a BOD level of 65 mg/L; nearly 13 times higher than the acceptable limit of 5 mg/L
+Uttar Pradesh,Nitrate,45.0,mg/L,,Unknown,65% of rural households in Uttar Pradesh rely on groundwater sources that show nitrate concentrations above the permissible limit of 45 mg/L; indicating contamination from fertilizers and sewage

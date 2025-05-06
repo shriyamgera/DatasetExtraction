@@ -45,6 +45,7 @@ Guidelines:
 - If no relevant data is found, return an empty CSV with just the headers.
 - **DO NOT** include explanations, markdown, or code blocks.
 - Output only raw CSV content.
+- Do not put commas in the input_reference column because it will break the CSV format instead of that use ; or any other special character.
 
 Text:
 \"\"\"{text}\"\"\"

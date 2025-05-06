@@ -1,0 +1,19 @@
+Location,Pollutant,Pollution_Type,Safe_Limit,Unit,Value,Year,input_reference
+Delhi,PM2.5,Air Pollution,40.0,µg/m³,126,2025.0,Delhi recorded an average PM2.5 level of 126 µg/m³ in April 2025 over 3 times the safe limit
+Lucknow,PM2.5,Air Pollution,40.0,µg/m³,98,2025.0,Lucknow Patna and Kanpur followed closely with levels at 98 91 and 87 µg/m³ respectively
+Patna,PM2.5,Air Pollution,40.0,µg/m³,91,2025.0,Lucknow Patna and Kanpur followed closely with levels at 98 91 and 87 µg/m³ respectively
+Kanpur,PM2.5,Air Pollution,40.0,µg/m³,87,2025.0,Lucknow Patna and Kanpur followed closely with levels at 98 91 and 87 µg/m³ respectively
+Urban areas,Vehicular emissions,Air Pollution,,%,39,,The data further shows that vehicular emissions (39%) construction dust (21%) and industrial discharge (18%) remain the top contributors to urban air pollution
+Urban areas,Construction dust,Air Pollution,,%,21,,The data further shows that vehicular emissions (39%) construction dust (21%) and industrial discharge (18%) remain the top contributors to urban air pollution
+Urban areas,Industrial discharge,Air Pollution,,%,18,,The data further shows that vehicular emissions (39%) construction dust (21%) and industrial discharge (18%) remain the top contributors to urban air pollution
+Yamuna River in Delhi,BOD,Water Pollution,5.0,mg/L,65,,The Yamuna River in Delhi showed a BOD level of 65 mg/L nearly 13 times higher than the acceptable limit of 5 mg/L
+Rural households in Uttar Pradesh,Nitrate,Water Pollution,45.0,mg/L,45+,,65% of rural households in Uttar Pradesh rely on groundwater sources that show nitrate concentrations above the permissible limit of 45 mg/L indicating contamination from fertilizers and sewage
+Delhi,PM2.5,Air Pollution,40.0,µg/m³,126,2025.0,Delhi recorded an average PM2.5 level of 126 µg/m³ in April 2025; over 3 times the safe limit
+Lucknow,PM2.5,Air Pollution,40.0,µg/m³,98,2025.0,Lucknow; Patna; and Kanpur followed closely with levels at 98; 91; and 87 µg/m³; respectively
+Patna,PM2.5,Air Pollution,40.0,µg/m³,91,2025.0,Lucknow; Patna; and Kanpur followed closely with levels at 98; 91; and 87 µg/m³; respectively
+Kanpur,PM2.5,Air Pollution,40.0,µg/m³,87,2025.0,Lucknow; Patna; and Kanpur followed closely with levels at 98; 91; and 87 µg/m³; respectively
+Urban Areas,Vehicular emissions,Air Pollution,,%,39,,The data further shows that vehicular emissions (39%); construction dust (21%); and industrial discharge (18%) remain the top contributors to urban air pollution
+Urban Areas,Construction dust,Air Pollution,,%,21,,The data further shows that vehicular emissions (39%); construction dust (21%); and industrial discharge (18%) remain the top contributors to urban air pollution
+Urban Areas,Industrial discharge,Air Pollution,,%,18,,The data further shows that vehicular emissions (39%); construction dust (21%); and industrial discharge (18%) remain the top contributors to urban air pollution
+Delhi,BOD,Water Pollution,5.0,mg/L,65,,The Yamuna River in Delhi showed a BOD level of 65 mg/L; nearly 13 times higher than the acceptable limit of 5 mg/L
+Uttar Pradesh,Nitrate,Water Pollution,,mg/L,45,,65% of rural households in Uttar Pradesh rely on groundwater sources that show nitrate concentrations above the permissible limit of 45 mg/L; indicating contamination from fertilizers and sewage

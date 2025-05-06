@@ -15,7 +15,11 @@ def save_to_csv(new_csv_str, category_name, dataset_dir="datasets"):
     os.makedirs(dataset_dir, exist_ok=True)
     sanitized_name = sanitize_filename(category_name)
     file_path = os.path.join(dataset_dir, f"{sanitized_name}.csv")
-    new_df = pd.read_csv(StringIO(new_csv_str))
+    try:
+        new_df = pd.read_csv(StringIO(new_csv_str))
+    except Exception as error:
+        print(f"Error reading CSV string: {error}")
+        print(new_csv_str)
 
     if os.path.exists(file_path):
         try:
