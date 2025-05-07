@@ -1,0 +1,44 @@
+Category,Unit,Value,input_reference
+Sport,match,T20,Delhi's AQI hit 350 this week — that's like facing 350 bouncers in a T20 match without a helmet.
+Sport,viewership,IPL,7M+ deaths globally each year due to air pollution — 70x the IPL's total viewership!
+Sport,,Olympic,Olympic athletes lose ~15% lung capacity in polluted air.
+Sport,,100m sprints,Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close).
+Unit,Sport,Category,input_reference
+,T20;match;bouncers,AQI,Delhi's AQI hit 350 this week — that's like facing 350 bouncers in a T20 match without a helmet.
+%,Olympic Athletes,Lung Capacity,Olympic athletes lose ~15% lung capacity in polluted air.
+m,Sprints,Event,Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close).
+seconds,Sprints,Time,Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close).
+Sport,Value,Unit,input_reference
+AQI,350,Delhi's AQI hit 350 this week — that's like facing 350 bouncers in a T20 match without a helmet.,
+T20,350,bouncers,Delhi's AQI hit 350 this week — that's like facing 350 bouncers in a T20 match without a helmet.
+IPL,70,times;7M+ deaths globally each year due to air pollution — 70x the IPL's total viewership!,
+PM2.5,10,times;PM2.5 levels in Indian cities often cross 10x the WHO safe limit — imagine your favorite batter hitting 10 consecutive sixes. That’s the scale.,
+Olympic,15,%;Olympic athletes lose ~15% lung capacity in polluted air.,
+Sprint,100,m;Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close).,
+Sprint,10,seconds;Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close).,
+Time,10,minutes;Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close).,
+Time,10,secs;Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close).,
+Sport,Unit,Value,input_reference
+AQI,,350,Delhi's AQI hit 350 this week — that's like facing 350 bouncers in a T20 match without a helmet
+T20,Bouncers,350,Delhi's AQI hit 350 this week — that's like facing 350 bouncers in a T20 match without a helmet
+IPL,Viewership,70,7M+ deaths globally each year due to air pollution — 70x the IPL's total viewership!
+,Times WHO Safe Limit,10,PM2.5 levels in Indian cities often cross 10x the WHO safe limit — imagine your favorite batter hitting 10 consecutive sixes;That’s the scale
+,Sixes,10,PM2.5 levels in Indian cities often cross 10x the WHO safe limit — imagine your favorite batter hitting 10 consecutive sixes;That’s the scale
+Olympic Athletes,Lung Capacity Loss,15%,Olympic athletes lose ~15% lung capacity in polluted air
+100m Sprints,Time,10 seconds,Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close)
+Sport,Value,Unit,input_reference
+AQI,350,,Delhi's AQI hit 350 this week — that's like facing 350 bouncers in a T20 match without a helmet.
+T20,350,Bouncers,Delhi's AQI hit 350 this week — that's like facing 350 bouncers in a T20 match without a helmet.
+IPL,70,x,7M+ deaths globally each year due to air pollution — 70x the IPL's total viewership!
+PM2.5,10,x,PM2.5 levels in Indian cities often cross 10x the WHO safe limit — imagine your favorite batter hitting 10 consecutive sixes. That’s the scale.
+Olympic athletes,15,%,Olympic athletes lose ~15% lung capacity in polluted air.
+100m sprints,10,seconds,Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close).
+Breathing Delhi air,10,seconds,Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close).
+Sport,Value,Unit,input_reference
+AQI,350,,Delhi's AQI hit 350 this week — that's like facing 350 bouncers in a T20 match without a helmet.
+T20 Bouncers,350,,Delhi's AQI hit 350 this week — that's like facing 350 bouncers in a T20 match without a helmet.
+IPL Viewership,70,Multiples of Deaths,7M+ deaths globally each year due to air pollution — 70x the IPL's total viewership!
+PM2.5 levels,10,Multiples of WHO limit,PM2.5 levels in Indian cities often cross 10x the WHO safe limit — imagine your favorite batter hitting 10 consecutive sixes. That’s the scale.
+Olympic Lung Capacity Loss,15,Percent,Olympic athletes lose ~15% lung capacity in polluted air.
+100m sprints,10,seconds,Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close).
+Life lost breathing Delhi air,10,minutes,Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close).

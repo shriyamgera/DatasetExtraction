@@ -1,32 +1,20 @@
-Input_Reference,Location,Pollution_Type,Safe_Limit,Unit,Value
-"Delhi recorded an average PM2.5 level of 126 µg/m³ in April 2025, over 3 times the safe limit.",Delhi,Air Pollution,40 µg/m³,µg/m³,126.0
-"Lucknow, Patna, and Kanpur followed closely with levels at 98, 91, and 87 µg/m³, respectively.",Lucknow,Air Pollution,40 µg/m³,µg/m³,98.0
-"Lucknow, Patna, and Kanpur followed closely with levels at 98, 91, and 87 µg/m³, respectively.",Patna,Air Pollution,40 µg/m³,µg/m³,91.0
-"Lucknow, Patna, and Kanpur followed closely with levels at 98, 91, and 87 µg/m³, respectively.",Kanpur,Air Pollution,40 µg/m³,µg/m³,87.0
-"The data further shows that vehicular emissions (39%), construction dust (21%), and industrial discharge (18%) remain the top contributors to urban air pollution.",Urban,Vehicular emissions,,%,39.0
-"The data further shows that vehicular emissions (39%), construction dust (21%), and industrial discharge (18%) remain the top contributors to urban air pollution.",Urban,Construction dust,,%,21.0
-"The data further shows that vehicular emissions (39%), construction dust (21%), and industrial discharge (18%) remain the top contributors to urban air pollution.",Urban,Industrial discharge,,%,18.0
-"The Yamuna River in Delhi showed a BOD level of 65 mg/L, nearly 13 times higher than the acceptable limit of 5 mg/L.",Yamuna River in Delhi,Water Pollution,5 mg/L,mg/L,65.0
-"65% of rural households in Uttar Pradesh rely on groundwater sources that show nitrate concentrations above the permissible limit of 45 mg/L, indicating contamination from fertilizers and sewage.",Uttar Pradesh (rural groundwater),Water Pollution,45 mg/L,mg/L,
-"Delhi recorded an average PM2.5 level of 126 µg/m³ in April 2025, over 3 times the safe limit.",Delhi,Air Pollution,40.0,µg/m³,126
-"Lucknow, Patna, and Kanpur followed closely with levels at 98, 91, and 87 µg/m³, respectively.",Lucknow,Air Pollution,40.0,µg/m³,98
-"Lucknow, Patna, and Kanpur followed closely with levels at 98, 91, and 87 µg/m³, respectively.",Patna,Air Pollution,40.0,µg/m³,91
-"Lucknow, Patna, and Kanpur followed closely with levels at 98, 91, and 87 µg/m³, respectively.",Kanpur,Air Pollution,40.0,µg/m³,87
-"The Yamuna River in Delhi showed a BOD level of 65 mg/L, nearly 13 times higher than the acceptable limit of 5 mg/L.",Yamuna River,Water Pollution,5.0,mg/L,65
-"65% of rural households in Uttar Pradesh rely on groundwater sources that show nitrate concentrations above the permissible limit of 45 mg/L, indicating contamination from fertilizers and sewage.",Uttar Pradesh,Water Pollution,,,65%
-"65% of rural households in Uttar Pradesh rely on groundwater sources that show nitrate concentrations above the permissible limit of 45 mg/L, indicating contamination from fertilizers and sewage.",Uttar Pradesh,Nitrate Concentration,,mg/L,45
-India’s Pollution Crisis Deepens; New Report Reveals Alarming Stats on Air; Water; and Waste Levels,India,Overall Pollution,,,
-Air Pollution; 70% of Cities Above Safe Levels,India,Air Pollution,,,
-According to the report; over 244 of India’s 350 monitored cities recorded PM2.5 levels exceeding the safe limit of 40 µg/m³ set by the National Ambient Air Quality Standards (NAAQS),India,PM2.5,40.0,µg/m³,Exceeding Safe Limit
-Delhi recorded an average PM2.5 level of 126 µg/m³ in April 2025; over 3 times the safe limit,Delhi,PM2.5,40.0,µg/m³,126
-Lucknow; Patna; and Kanpur followed closely with levels at 98; 91; and 87 µg/m³; respectively,Lucknow,PM2.5,40.0,µg/m³,98
-Lucknow; Patna; and Kanpur followed closely with levels at 98; 91; and 87 µg/m³; respectively,Patna,PM2.5,40.0,µg/m³,91
-Lucknow; Patna; and Kanpur followed closely with levels at 98; 91; and 87 µg/m³; respectively,Kanpur,PM2.5,40.0,µg/m³,87
-The data further shows that vehicular emissions (39%); construction dust (21%); and industrial discharge (18%) remain the top contributors to urban air pollution,India,Vehicular Emissions,,,39%
-The data further shows that vehicular emissions (39%); construction dust (21%); and industrial discharge (18%) remain the top contributors to urban air pollution,India,Construction Dust,,,21%
-The data further shows that vehicular emissions (39%); construction dust (21%); and industrial discharge (18%) remain the top contributors to urban air pollution,India,Industrial Discharge,,,18%
-Water Pollution; 46% of Rivers Unsafe for Bathing,India,Water Pollution,,,
-Of the 311 monitored river stretches; 143 (46%) were found unfit for bathing or agricultural use due to high levels of Biochemical Oxygen Demand (BOD) and Fecal Coliform bacteria,India,BOD,,,High
-Of the 311 monitored river stretches; 143 (46%) were found unfit for bathing or agricultural use due to high levels of Biochemical Oxygen Demand (BOD) and Fecal Coliform bacteria,India,Fecal Coliform bacteria,,,High
-The Yamuna River in Delhi showed a BOD level of 65 mg/L; nearly 13 times higher than the acceptable limit of 5 mg/L,Delhi; Yamuna River,BOD,5.0,mg/L,65
-65% of rural households in Uttar Pradesh rely on groundwater sources that show nitrate concentrations above the permissible limit of 45 mg/L; indicating contamination from fertilizers and sewage,Uttar Pradesh,Nitrate,45.0,mg/L,Above Permissible Limit
+Category,Location,Pollutant,Safe_Limit,Unit,Value,Year,input_reference
+Air Pollution,Delhi,PM2.5,40.0,µg/m³,126.0,2025.0,Delhi recorded an average PM2.5 level of 126 µg/m³ in April 2025; over 3 times the safe limit.
+Air Pollution,Lucknow,PM2.5,40.0,µg/m³,98.0,2025.0,Lucknow; Patna; and Kanpur followed closely with levels at 98; 91; and 87 µg/m³; respectively.
+Air Pollution,Patna,PM2.5,40.0,µg/m³,91.0,2025.0,Lucknow; Patna; and Kanpur followed closely with levels at 98; 91; and 87 µg/m³; respectively.
+Air Pollution,Kanpur,PM2.5,40.0,µg/m³,87.0,2025.0,Lucknow; Patna; and Kanpur followed closely with levels at 98; 91; and 87 µg/m³; respectively.
+Air Pollution,Urban,Vehicular Emissions,,%,39.0,,The data further shows that vehicular emissions (39%); construction dust (21%); and industrial discharge (18%) remain the top contributors to urban air pollution.
+Air Pollution,Urban,Construction Dust,,%,21.0,,The data further shows that vehicular emissions (39%); construction dust (21%); and industrial discharge (18%) remain the top contributors to urban air pollution.
+Air Pollution,Urban,Industrial Discharge,,%,18.0,,The data further shows that vehicular emissions (39%); construction dust (21%); and industrial discharge (18%) remain the top contributors to urban air pollution.
+Water Pollution,Delhi; Yamuna River,BOD,5.0,mg/L,65.0,,The Yamuna River in Delhi showed a BOD level of 65 mg/L; nearly 13 times higher than the acceptable limit of 5 mg/L.
+Water Pollution,Uttar Pradesh; rural households,Nitrate,45.0,mg/L,,,65% of rural households in Uttar Pradesh rely on groundwater sources that show nitrate concentrations above the permissible limit of 45 mg/L; indicating contamination from fertilizers and sewage.
+Environment,Delhi,AQI,,,350.0,,Delhi's AQI hit 350 this week — that's like facing 350 bouncers in a T20 match without a helmet.
+Environment,Global,Air Pollution,,Deaths/year,7000000.0,,7M+ deaths globally each year due to air pollution — 70x the IPL's total viewership!
+Environment,Indian cities,PM2.5,WHO safe limit,times WHO limit,10.0,,PM2.5 levels in Indian cities often cross 10x the WHO safe limit — imagine your favorite batter hitting 10 consecutive sixes. That’s the scale.
+Environment,,Lung Capacity,,%,15.0,,Olympic athletes lose ~15% lung capacity in polluted air.
+Environment,Delhi,Air Quality,,minutes off life/10 seconds,10.0,,"ironically, 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close)."
+Environment,Delhi,AQI,,,350,,Delhi's AQI hit 350 this week — that's like facing 350 bouncers in a T20 match without a helmet
+Environment,Global,Air Pollution,,Deaths,7000000,,7M+ deaths globally each year due to air pollution — 70x the IPL's total viewership!
+Environment,Indian Cities,PM2.5,,WHO Safe Limit,10x,,PM2.5 levels in Indian cities often cross 10x the WHO safe limit — imagine your favorite batter hitting 10 consecutive sixes; That’s the scale
+Environment,Olympics,Air Pollution,,Lung Capacity Loss,15%,,Olympic athletes lose ~15% lung capacity in polluted air
+Environment,Delhi,Air Pollution,,,10 seconds breath takes 10 minutes off your life,,Ironically; 100m sprints are run in ~10 seconds... and breathing Delhi air for 10 secs takes 10 minutes off your life (figuratively; but close)
