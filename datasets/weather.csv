@@ -1,13 +1,13 @@
 PM2.5,PM10,Humidity,input_reference
 31.0,166.0,,On the evening of July 3; PM2.5 levels were estimated around 31 µg/m³; while PM10 was reported at 166 µg/m³.
-53.0,229.5,71.0,By late night; pollution increased with PM2.5 nearing 53 µg/m³ and PM10 hitting 229.5 µg/m³. Humidity was also on the rise; reaching around 71%
+53.0,229.5,71,By late night; pollution increased with PM2.5 nearing 53 µg/m³ and PM10 hitting 229.5 µg/m³. Humidity was also on the rise; reaching around 71%
 50.0,,,Early July 4 showed high PM2.5 values; staying above 50 µg/m³ around 3 AM.
-,44.5,,There was a brief improvement mid-morning; with PM10 dropping to 44.5 µg/m³.
-20.5,,,PM2.5 was recorded at 20.5 µg/m³
+,,"82,;Humidity crossed 82% during this time; worsening discomfort levels.",
+20.5,44.5,,There was a brief improvement mid-morning; with PM10 dropping to 44.5 µg/m³. PM2.5 was recorded at 20.5 µg/m³
 ,138.5,,By 1 PM; partial data showed PM10 reaching 138.5 µg/m³
 ,173.0,37.8,Around 3 PM; PM10 rose again to 173 µg/m³; while humidity was estimated at 37.8%.
 26.0,,,At 5 PM; PM2.5 was recorded at 26 µg/m³
 ,265.0,,Night-time data was patchy; with one station reporting PM10 at 265 µg/m³.
 101.0,,,Around 2 AM; PM2.5 crossed 101 µg/m³.
-,264.5,82.0,PM10 values were missing from most stations except one; which recorded 264.5 µg/m³. Humidity was above 82%
+,264.5,"82,;PM10 values were missing from most stations except one; which recorded 264.5 µg/m³. Humidity was above 82%",
 125.5,437.0,75.77,At 3 AM; PM2.5 hit 125.5 µg/m³ and PM10 touched 437 µg/m³. Humidity stayed around 75.77%

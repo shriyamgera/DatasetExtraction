@@ -46,6 +46,11 @@ Guidelines:
 - **DO NOT** include explanations, markdown, or code blocks.
 - Output only raw CSV content.
 - Do not put commas in the input_reference column because it will break the CSV format instead of that use ; or any other special character.
+- Do not include ```csv``` or any other code block format in the output.
+- I have to use the output in a CSV file, so please make sure to format it correctly.
+- The output that you provide should be in such a way that I can directly copy and paste it into a CSV file.
+- if the values you think are missing from the row. you can skip the missing value and add a comma for that value.
+- You have to make the csv of only numerical data present in the below text.
 
 Text:
 \"\"\"{text}\"\"\"

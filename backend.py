@@ -2,12 +2,15 @@ import base64
 from flask import Flask, request, jsonify
 import os
 from main import process_file
-
+from flask_cors import CORS
 app = Flask(__name__)
+CORS(app)
 UPLOAD_FOLDER = 'uploads'
 OUTPUT_FOLDER = 'outputs'
 os.makedirs(UPLOAD_FOLDER, exist_ok=True)
 os.makedirs(OUTPUT_FOLDER, exist_ok=True)
+from flask import send_from_directory
+DATASET_FOLDER = 'datasets'
 
 @app.route('/upload_base64', methods=['POST'])
 def upload_base64():
@@ -52,6 +55,21 @@ def upload_base64():
         traceback.print_exc()
         return jsonify({'error': str(e)}), 500
 
+
+@app.route('/list_datasets', methods=['GET'])
+def list_datasets():
+    try:
+        files = os.listdir(DATASET_FOLDER)
+        return jsonify({'files': files})
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
+
+@app.route('/download_dataset/<filename>', methods=['GET'])
+def download_dataset(filename):
+    try:
+        return send_from_directory(DATASET_FOLDER, filename, as_attachment=True)
+    except Exception as e:
+        return jsonify({'error': str(e)}), 500
 
 if __name__ == '__main__':
     print(" Flask server is running at: http://127.0.0.1:5000")
